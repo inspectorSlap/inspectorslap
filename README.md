@@ -1,10 +1,13 @@
 # Brian Kerrigan
 
-I build agentic systems and the instruments that measure whether they work.
+I build agentic systems and the instruments that govern their authority.
 
 Most of my time goes to evaluation methodology: grader instability, construct
 validity in automated evaluation, and how a system establishes authority over
 decisions derived from interpreted inputs.
+
+My agentic swarm Rupert can be viewed in detail here:
+**[Rupert Architecture](https://briankerrigan.us/architecture)**
 
 ### Things here
 
@@ -18,10 +21,7 @@ standard library only, offline demo included.
 hash and timestamp chain. I work alone, so anything that could later be fitted
 to a result gets committed and stamped before the result exists.
 
-**[pubRepo](https://github.com/inspectorSlap/pubRepo)** ·
-**[devSwarm-sandbox](https://github.com/inspectorSlap/devSwarm-sandbox)**
-
 ### Elsewhere
 
-Writing and current work: [briankerrigan.us](https://briankerrigan.us)
-Holonograph: [holonograph.ai](https://holonograph.ai)
+- Writing and current work: [briankerrigan.us](https://briankerrigan.us)
+- Holonograph: [holonograph.ai](https://holonograph.ai)
