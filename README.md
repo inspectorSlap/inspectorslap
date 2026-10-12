@@ -17,6 +17,11 @@ query and where it came from, keep the rejected candidates with their reasons.
 There is deliberately no `NOVEL` verdict in its vocabulary. Python 3.10+,
 standard library only, offline demo included.
 
+**[Blacklight](https://github.com/inspectorSlap/blacklight/)** – Blacklight is an 
+extracted Python prototype for testing an implementation againsta separately specified 
+contract. It combines an exact oracle, a separate referenceimplementation, known-broken 
+targets, synthetic scenarios, and explicit review gates.
+
 **[attestations](https://github.com/inspectorSlap/attestations)** — a public
 hash and timestamp chain. I work alone, so anything that could later be fitted
 to a result gets committed and stamped before the result exists.
