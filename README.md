@@ -7,7 +7,7 @@ validity in automated evaluation, and how a system establishes authority over
 decisions derived from interpreted inputs.
 
 My agentic swarm Rupert can be viewed in detail here:
-**[Rupert Architecture](https://briankerrigan.us/architecture)**
+**[Rupert Architecture](https://briankerrigan.us/architecture.html)**
 
 ### Things here
 
