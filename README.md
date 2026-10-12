@@ -11,7 +11,7 @@ My agentic swarm Rupert can be viewed in detail here:
 
 ### Things here
 
-**[Study-Scout](https://github.com/inspectorSlap/Study-Scout)** — an adversarial
+**[Study Scout](https://github.com/inspectorSlap/Study-Scout)** — an adversarial
 literature review toolkit. Freeze your claims before you search, record every
 query and where it came from, keep the rejected candidates with their reasons.
 There is deliberately no `NOVEL` verdict in its vocabulary. Python 3.10+,
